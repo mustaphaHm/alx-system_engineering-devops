@@ -1,2 +1,2 @@
-sh: 1: :wq: not found
-
+#!/bin/bash
+export BEST="School"
